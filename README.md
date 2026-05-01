@@ -9,6 +9,7 @@ The plugins are:<br />
   WP 2FA – Enforces 2FA for all users<br />​
   Tidio Chat – AI Chatbot​<br />
   SupportCandy – Service Tickets for customer support<br />​
+  Customer Email Verification for WooCommerce<br />​
 
 Below are the setup of the file:<br />
 ​  Hosted on SiteGround with Security Optimizer<br />​
@@ -22,3 +23,5 @@ Below are the setup of the file:<br />
   Wp-admin login URL protected<br />​
   Admin email alerts<br />​
   Email included<br />
+Dataflow Diagram:
+![Diagram](Dataflow_diagram.png)
